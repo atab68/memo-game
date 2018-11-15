@@ -19,3 +19,6 @@ $git clone https://github.com/atab68/memory-game2.git or download zip folder
 $ cd memory-game2
 open `index.html` in your browser
 play the game.
+
+## This page published here:
+https://atab68.github.io/memo-game/
