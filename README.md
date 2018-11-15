@@ -2,8 +2,6 @@
 
 ## Memory Game Project
 
-Game: https://atab68.github.io/memory-game2/
-
 This is matching game. Click the cards to find match. Match all cards and after game is over popup window shows your score in seconds time, and moves how many you did. If you want to play push button 'Yes', it will reload the page/game. 
 
 It is a Single Page Application.
